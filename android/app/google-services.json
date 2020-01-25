@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "842573706542",
+    "firebase_url": "https://medimind-9edee.firebaseio.com",
+    "project_id": "medimind-9edee",
+    "storage_bucket": "medimind-9edee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842573706542:android:8f4cc090208f8f23e2b6bf",
+        "android_client_info": {
+          "package_name": "com.medimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842573706542-plv37ejqbtkrduiq18m9sf8qkffn0icm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medimind",
+            "certificate_hash": "1da59ca750b3efcfafb2669061495a6b4b63834b"
+          }
+        },
+        {
+          "client_id": "842573706542-h3dpao5ms9scaac1lckmbdjgc843uhti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medimind",
+            "certificate_hash": "6f5bc28206de72810cfcb4e83136e40f62f0c35c"
+          }
+        },
+        {
+          "client_id": "842573706542-ruapmnc0g81mpi0kb8d102nchab8jeop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9FK7I-dGgLuU0immUVrkhFfV4Hb3XnOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842573706542-ruapmnc0g81mpi0kb8d102nchab8jeop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
